@@ -25,3 +25,37 @@
 /* Positioning Classes */
 
 
+.shoe-archive {
+  margin-bottom: 2%;
+  width: 32.5%;
+  display: inline-block;
+  float: right;
+}
+
+.featured {
+  margin-bottom: 2%;
+  width: 65.5%;
+  display: inline-block;
+  float: left;
+}
+
+
+
+.deal-wrapper {
+  column-count: 3;
+  width: 100%;
+  clear: both;
+  align-content: stretch;
+}
+
+.deals {
+  column-span: 1;
+}
+
+.last-wrapper {
+  column-count: 3;
+}
+
+.last {
+  column-span: 1;
+}
