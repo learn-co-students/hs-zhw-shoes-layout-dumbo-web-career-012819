@@ -24,4 +24,24 @@
 
 /* Positioning Classes */
 
+.detail-padding {
+  padding-left: 16px;
+}
 
+.col-1 {
+  float: left;
+  width: 32%;
+}
+
+.col-2 {
+  float: left;
+  width: 66%;
+}
+
+.margin {
+  margin-left: 2%;
+}
+
+section[class="shadow col-2"], section[class="shadow col-1 margin"]{
+  margin-bottom: 2%;
+}
