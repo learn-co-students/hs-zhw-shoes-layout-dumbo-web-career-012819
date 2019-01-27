@@ -24,4 +24,25 @@
 
 /* Positioning Classes */
 
+.summer {
+  margin-bottom: 2%;
+  width: 66%;
+  display:inline-block;
+  float: left;
+}
 
+
+.archive {
+  margin-bottom: 2%;
+  width: 32.5%;
+  display:inline-block;
+  float: right;
+}
+.deal-wrapper {
+column-count: 3;
+width: 100%;
+}
+
+.info {
+  columns: 3;
+}
